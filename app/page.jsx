@@ -58,6 +58,7 @@ export default function Home() {
                 <p className="text-xl md:text-2xl text-gray-600 mb-8">
                   Exquisite wooden and metal decorative items, launching soon.
                 </p>
+                <p className="mb-2">Let's meet in market.</p>
 
                 <div className="mb-12">
                   <CountdownTimer targetDate={launchDate} />
